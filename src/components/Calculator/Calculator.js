@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import {Button} from '../Button';
 
 //  state = {
 //    amount: 0,
@@ -24,8 +25,11 @@ function Calculator(params) {
   const [amount, setAmount] = useState(0);
   const [currencyFrom, setCurrencyFrom] =useState('PLN');
   const [currencyTo, setCurrencyTo] =useState('USD');
+  const handleSubmit = (event) => {
+    event.preventDefault();
+  }
   return(
-        <form>
+        <form onSubmit={handleSubmit}>
         <div>
           <input type="number" placeholder="Amount" onChange={
             (event) => {
@@ -41,6 +45,7 @@ function Calculator(params) {
           <Select value={currencyTo} setCurrency={setCurrencyTo}/>
         </div>
         <div>Result: {amount} </div>
+        <Button type="submit">Send</Button>
       </form>
     );
 }

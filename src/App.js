@@ -19,18 +19,18 @@ function App() {
     <div className="App">
       <Router>
         <ul>
-          <li><Link to ="/">Home</Link></li>
-          <li><Link to ="/about">About</Link></li>
-          <li><Link to ="/contact">Contact</Link></li>
+          <li><Link to ="/workshops-currency/">Home</Link></li>
+          <li><Link to ="/workshops-currency/about">About</Link></li>
+          <li><Link to ="/workshops-currency/contact">Contact</Link></li>
         </ul>
         <Switch>
-          <Route path="/" exact={true}>
+          <Route path="/workshops-currency/" exact={true}>
             <Calculator />
           </Route>
-          <Route path="/about">
+          <Route path="/workshops-currency/about">
             <About />
           </Route>
-          <Route path="/contact"component={Contact} />
+          <Route path="/workshops-currency/contact"component={Contact} />
         </Switch>
       </Router>
     </div>

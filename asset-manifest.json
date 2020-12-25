@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/workshops-currency/static/css/main.73efbf52.chunk.css",
-    "main.js": "/workshops-currency/static/js/main.a9cdebd1.chunk.js",
-    "main.js.map": "/workshops-currency/static/js/main.a9cdebd1.chunk.js.map",
+    "main.js": "/workshops-currency/static/js/main.79e9092c.chunk.js",
+    "main.js.map": "/workshops-currency/static/js/main.79e9092c.chunk.js.map",
     "runtime-main.js": "/workshops-currency/static/js/runtime-main.3a7896ca.js",
     "runtime-main.js.map": "/workshops-currency/static/js/runtime-main.3a7896ca.js.map",
     "static/js/2.f6083ba3.chunk.js": "/workshops-currency/static/js/2.f6083ba3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3a7896ca.js",
     "static/js/2.f6083ba3.chunk.js",
     "static/css/main.73efbf52.chunk.css",
-    "static/js/main.a9cdebd1.chunk.js"
+    "static/js/main.79e9092c.chunk.js"
   ]
 }

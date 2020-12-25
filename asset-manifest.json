@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/workshops-currency/static/css/main.73efbf52.chunk.css",
+    "main.js": "/workshops-currency/static/js/main.a9cdebd1.chunk.js",
+    "main.js.map": "/workshops-currency/static/js/main.a9cdebd1.chunk.js.map",
+    "runtime-main.js": "/workshops-currency/static/js/runtime-main.3a7896ca.js",
+    "runtime-main.js.map": "/workshops-currency/static/js/runtime-main.3a7896ca.js.map",
+    "static/js/2.f6083ba3.chunk.js": "/workshops-currency/static/js/2.f6083ba3.chunk.js",
+    "static/js/2.f6083ba3.chunk.js.map": "/workshops-currency/static/js/2.f6083ba3.chunk.js.map",
+    "static/js/3.ca47f6a0.chunk.js": "/workshops-currency/static/js/3.ca47f6a0.chunk.js",
+    "static/js/3.ca47f6a0.chunk.js.map": "/workshops-currency/static/js/3.ca47f6a0.chunk.js.map",
+    "index.html": "/workshops-currency/index.html",
+    "static/css/main.73efbf52.chunk.css.map": "/workshops-currency/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.f6083ba3.chunk.js.LICENSE.txt": "/workshops-currency/static/js/2.f6083ba3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a7896ca.js",
+    "static/js/2.f6083ba3.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.a9cdebd1.chunk.js"
+  ]
+}
